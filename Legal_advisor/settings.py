@@ -99,11 +99,11 @@ RAZORPAY_KEY_SECRET = 'jo7RcNBDpB5qIYJ3NUBKHeVk'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Legaladvisor_worrylawit',  # Your database name
-        'USER': 'Legaladvisor_worrylawit',  # Your MySQL username
-        'PASSWORD': '31186f5ba20d2da530b3322a7783969c453b2617',  # Your MySQL password
+        'NAME': 'legaladvisor_mightfind',  # Your database name
+        'USER': 'legaladvisor_mightfind',  # Your MySQL username
+        'PASSWORD': '88da7bb635dd3c6524665a0d5e9bbc21e5c60c18',  # Your MySQL password
         'HOST': '1dtg8.h.filess.io',  # Your database host
-        'PORT': '3307',  # Your database port
+        'PORT': '61001',  # Your database port
     }
 }
 
