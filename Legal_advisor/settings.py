@@ -102,7 +102,7 @@ DATABASES = {
         'NAME': 'legaladvisor_mightfind',  # Your database name
         'USER': 'legaladvisor_mightfind',  # Your MySQL username
         'PASSWORD': '88da7bb635dd3c6524665a0d5e9bbc21e5c60c18',  # Your MySQL password
-        'HOST': '1dtg8.h.filess.io',  # Your database host
+        'HOST': 'wcd96.h.filess.io',  # Your database host
         'PORT': '61001',  # Your database port
     }
 }
