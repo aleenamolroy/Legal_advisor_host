@@ -33,11 +33,11 @@ from django.views.decorators.http import require_POST
 import json
 now = datetime.datetime.now()
 conn = pymysql.connect(
-    host="1dtg8.h.filess.io",
-    user="Legaladvisor_worrylawit",
-    password="31186f5ba20d2da530b3322a7783969c453b2617",
-    database="Legaladvisor_worrylawit",
-    port=3307
+    host="wcd96.h.filess.io",
+    user="legaladvisor_mightfind",
+    password="88da7bb635dd3c6524665a0d5e9bbc21e5c60c18",
+    database="legaladvisor_mightfind",
+    port=61001
 )
 c = conn.cursor()
 
